@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/daowen/controller/FufeiController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/controller/YuyueController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Ceshiti.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Comment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Dajuan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Dajuanitem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Friendlink.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Fufei.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Huiyuan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Indexcolumns.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Jiaodiantu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Kecheng.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Lanmu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Leaveword.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Notice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Shijuan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Shijuanitem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Shoucang.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Sitenav.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Sysconfig.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Teacher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Topic.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Users.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Xinxi.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Yuyue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/entity/Zydownload.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/mapper/FufeiMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/mapper/YuyueMapper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/service/FufeiService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/service/YuyueService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/daowen/uibuilder/ShijuanBuilder.java" charset="UTF-8" />
+  </component>
+</project>
